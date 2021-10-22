@@ -1,5 +1,6 @@
 # grocery-website
-grocery website 
+this is group project made by Gurukiran S, Suhas, Harivardan.
+grocery website setup
 download the zip file and extract it in any folder
 open the cmd or terminal in extracted folder and run this command
 
